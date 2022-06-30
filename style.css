@@ -1,0 +1,29 @@
+body{
+    font-family: Verdana;
+}
+
+.navbar{
+    background-color: rgb(17, 121, 182);
+}
+
+.design-container{
+    background-color: rgb(175, 175, 180);
+}
+
+.padding{
+    padding-top:20px;
+    padding-bottom:40px;
+}
+
+.arte-container{
+    background-color:rgb(17, 121, 182);
+}
+
+.games-container{
+    background-color: rgb(175, 175, 180);
+}
+
+.bg-footer{
+    background-color: rgb(17, 121, 182);
+    padding: 5px;
+}
